@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    font-weight: 500;
+}
+
+.container {
+    margin: 20px 15%;
+}
+
+#header {
+    margin: 50px;
+    text-align: center;
+}
+
+.icon {
+    width: 18px;
+}
+
+.date {
+    text-align: end;
+    min-width: 300px;
+}
+
+
+.section {
+    margin: 30px 10px;
+}
+
+.section-title {
+    font-weight: bold;
+}
+
+.sec-item {
+    margin-top: 15px;
+}
+
+.sec-item-header {
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec-item-exp {
+    margin-top: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
